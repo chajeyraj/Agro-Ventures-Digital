@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Expense Tracker",
+  "description": "A clean and minimal expense tracker built with React and Supabase, designed with a mobile-first approach.",
+  "requestFramePermissions": []
+}
